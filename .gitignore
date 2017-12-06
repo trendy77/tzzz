@@ -6,3 +6,5 @@ NAMES.txt
 *.log
 *.json
 *.txtpackage.json
+SECRETS.txt
+*.txt
